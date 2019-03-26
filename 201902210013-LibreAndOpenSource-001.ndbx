@@ -14,10 +14,10 @@
         <node name="combine2" position="9.00,2.00" prototype="list.combine"/>
         <node name="combine3" position="2.00,6.00" prototype="list.combine"/>
         <node name="copy1" position="12.00,2.00" prototype="corevector.copy">
-            <port name="copies" type="int" value="20"/>
+            <port name="copies" type="int" value="211"/>
             <port name="order" type="string" value="trs"/>
             <port name="translate" type="point" value="-35.00,41.00"/>
-            <port name="rotate" type="float" value="3.0"/>
+            <port name="rotate" type="float" value="1.0"/>
             <port name="scale" type="point" value="112.00,99.00"/>
         </node>
         <node name="rotate1" position="9.00,4.00" prototype="corevector.rotate">
